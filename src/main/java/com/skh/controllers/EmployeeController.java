@@ -8,6 +8,6 @@ public class EmployeeController {
 
     @RequestMapping("name")
     public String myName(){
-        return "kamal";
+        return "kamal..";
     }
 }
